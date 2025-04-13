@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- Example code for an 'about' page -->
 
-<!--
-**SchoolSam/SchoolSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<html>
 
-Here are some ideas to get you started:
+<head>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>About</h2>
+
+</head>
+
+<body>
+
+ 
+
+<p>This is where you tell the world how awesome you are.</p>
+
+ 
+
+</body>
+
+ 
+
+</html>
